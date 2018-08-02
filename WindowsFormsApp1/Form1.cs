@@ -18,6 +18,7 @@ namespace WindowsFormsApp1
         
         private void button1_Click(object sender, EventArgs e)
         {
+            /////Fack
             Refresh();
             Graphics g = CreateGraphics();
             Pen pen = new Pen(Color.Blue, 3);
